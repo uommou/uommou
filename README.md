@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20Chaerryos'%20Github!&fontSize=40&animation=twinkling)
 
-## Chaiwon Hwang
+## 🌏 Chaiwon Hwang
 I have maintained a consistent interest in artificial intelligence, with a particular focus on natural language processing. My passion for these fields has driven me to pursue extensive study and practical experiences, underscoring my commitment to advancing in this dynamic and evolving sector.
 
 ## 🧩 Experiences
@@ -19,7 +19,7 @@ I have maintained a consistent interest in artificial intelligence, with a parti
 - **Artificial Intelligence, Peer Coaching** | Jan.2024-Jan.2024
 
 
-## 🌠Stacks
+## 🌠 Stacks
 
 **Main Languages**
 
@@ -58,12 +58,12 @@ I have maintained a consistent interest in artificial intelligence, with a parti
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 </div>
 
-## 🌱GitHub Stats
+## 🌱 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uommou&theme=gruvbox_light&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uommou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🍝Algorithm
+## 🍝 Algorithm
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaerryos)](https://solved.ac/chaerryos)
 
