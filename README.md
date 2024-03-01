@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20Chaerryos'%20Github!&fontSize=40&animation=twinkling)
 
 ## Stacks
----
+
 **Main Language**
-<img src="https://img.shields.io/badge/#3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 **AI**
 
