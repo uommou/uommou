@@ -39,17 +39,20 @@
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 </div>
 
-## GitHub Stats
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=uommou&theme=gruvbox_light&rank_icon=github" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uommou&layout=compact" />
+  </a>
+</p>
 
-<div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uommou&theme=gruvbox_light&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uommou&layout=compact)
-</div>
-## Algorithm
+<p align="center">
+  <a href="https://solved.ac/chaerryos">
+    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chaerryos" />
+  </a>
+</p>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaerryos)](https://solved.ac/chaerryos)
 
 
