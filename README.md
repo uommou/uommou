@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&fontcolor=timeGradient&height=300&section=header&text=Welcome%20to%20Chaerryos'%20Github!&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&fontColor=timeGradient&height=300&section=header&text=Welcome%20to%20Chaerryos'%20Github!&fontSize=40&animation=twinkling)
 
 <!--
 **uommou/uommou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
