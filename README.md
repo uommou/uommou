@@ -3,6 +3,8 @@
 ## 🌏 Chaiwon Hwang
 I have maintained a consistent interest in artificial intelligence, with a particular focus on natural language processing. My passion for these fields has driven me to pursue extensive study and practical experiences, underscoring my commitment to advancing in this dynamic and evolving sector.
 
+My current intersts are... Backend, MLOps, Transformer
+
 ## 🧩 Experiences
 - **Novice Tutor, ICPC Sinchon Algorithm Camp 24W** | Feb.2024
 - **Google for Developers Machine Learning Bootcamp, Google Developers Group** | Sep.2023
