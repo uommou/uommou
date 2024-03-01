@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=130&section=header&text=Welcome%20to%20Chaerryos'%20Github&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=100&section=header&text=Welcome%20to%20Chaerryos'%20Github&fontSize=30&animation=twinkling)
 
 ## 🌏 Chaiwon Hwang
 I have maintained a consistent interest in artificial intelligence, with a particular focus on natural language processing. My passion for these fields has driven me to pursue extensive study and practical experiences, underscoring my commitment to advancing in this dynamic and evolving sector.
