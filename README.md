@@ -4,20 +4,19 @@
 I have maintained a consistent interest in artificial intelligence, with a particular focus on natural language processing. My passion for these fields has driven me to pursue extensive study and practical experiences, underscoring my commitment to advancing in this dynamic and evolving sector.
 
 ## 🧩 Experiences
-- **Google for Developers Machine Learning Bootcamp, Google Developers Group** | Sep.2023
 - **Novice Tutor, ICPC Sinchon Algorithm Camp 24W** | Feb.2024
+- **Google for Developers Machine Learning Bootcamp, Google Developers Group** | Sep.2023
 
 ## 📓 On-Campus Activities
-- **AI Security Lab ‘AISec’, Intern** | Jul. 2022 - Present
-- **EURON 2th, NLP Member** | Sep.2021-Feb.2022
-- **EURON 3th, CV Education Committee** | Mar.2022-Aug.2022
-- **EURON 5th, Advanced Education Committee** | Sep.2023-Feb.2024
-- **EURON 6th, Lead** | Mar.2024-Present
+- **EURON 6th, President** | Mar.2024-Present
 - **Google Developer Student Clubs Ewha, Server member** | Sep.2023-Present
 - **EDOC 16th, Member** | Sep.2023-Present
-- **Information and Communication Engineering, Peer Assistant** | Mar.2023-Jun.2023
+- **AI Security Lab ‘AISec’, Intern** | Jul. 2022 - Feb.2024
 - **Artificial Intelligence, Peer Coaching** | Jan.2024-Jan.2024
-
+- **EURON 5th, Advanced Education Committee** | Sep.2023-Feb.2024
+- **Information and Communication Engineering, Peer Assistant** | Mar.2023-Jun.2023
+- **EURON 3th, CV Education Committee** | Mar.2022-Aug.2022
+- **EURON 2th, NLP Member** | Sep.2021-Feb.2022
 
 ## 🌠 Stacks
 
