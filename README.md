@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20Chaerryos'%20Github!&fontSize=40&animation=twinkling)
 
+## Chaiwon Hwang
+I have maintained a consistent interest in artificial intelligence, with a particular focus on natural language processing. My passion for these fields has driven me to pursue extensive study and practical experiences, underscoring my commitment to advancing in this dynamic and evolving sector.
+
 ## 🧩 Experiences
 - **Google for Developers Machine Learning Bootcamp, Google Developers Group** | Sep.2023
 - **Novice Tutor, ICPC Sinchon Algorithm Camp 24W** | Feb.2024
