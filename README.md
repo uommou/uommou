@@ -1,7 +1,12 @@
 ### Hi there 👋
+
 <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20Chaerryos'%20Github!&fontSize=40&animation=twinkling&font-family=Pretendard)
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Micro+5&display=swap" rel="stylesheet">
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20Chaerryos'%20Github!&fontSize=40&animation=twinkling&font-family=Micro5)
 
 <!--
 **uommou/uommou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
