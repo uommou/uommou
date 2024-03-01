@@ -1,5 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20Chaerryos'%20Github!&fontSize=40&animation=twinkling)
 
+## 🧩 Experiences
+- Google for Developers Machine Learning Bootcamp, Google Developers Group | Sep.2023
+- Novice Tutor, ICPC Sinchon Algorithm Camp 24W | Feb.2024
+
+## 🧩 On-Campus Activities
+- AI Security Lab ‘AISec’, Intern | Jul. 2022 - Now
+- EURON 2th, NLP Member | Sep.2021-Feb.2022
+- EURON 3th, CV Education Committee | Mar.2022-Aug.2022
+- EURON 5th, Advanced Education Committee | Sep.2023-Feb.2024
+- EURON 6th, Lead | Mar.2024-Present
+- Google Developer Student Clubs Ewha, Server member | Sep.2023-Present
+- EDOC 16th, Member | Sep.2023-Present
+- Information and Communication Engineering, Peer Assistant | Mar.2023-Jun.2023
+- Artificial Intelligence, Peer Coaching | Jan.2024-Jan.2024
+
+
 ## 🌠Stacks
 
 **Main Languages**
@@ -48,6 +64,9 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaerryos)](https://solved.ac/chaerryos)
 
+## Awards and Scholarships
 
+- 4th Prize, SW Startup Competition in Ewha W. University | Nov.2023
+- 4-year Full scholarship, Ewha Womans University | Feb.2019
 
 
