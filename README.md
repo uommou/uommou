@@ -5,7 +5,7 @@
 - Novice Tutor, ICPC Sinchon Algorithm Camp 24W | Feb.2024
 
 ## 🧩 On-Campus Activities
-- AI Security Lab ‘AISec’, Intern | Jul. 2022 - Now
+- AI Security Lab ‘AISec’, Intern | Jul. 2022 - Present
 - EURON 2th, NLP Member | Sep.2021-Feb.2022
 - EURON 3th, CV Education Committee | Mar.2022-Aug.2022
 - EURON 5th, Advanced Education Committee | Sep.2023-Feb.2024
