@@ -39,13 +39,15 @@
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 </div>
 
-<div>
+## GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uommou&theme=gruvbox_light&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uommou&layout=compact)
 
+## Algorithm
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaerryos)](https://solved.ac/chaerryos)
 
-</div>
+
