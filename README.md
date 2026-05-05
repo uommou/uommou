@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 </div>
 
----
 
 ## 💼 Experience
 
@@ -39,8 +38,6 @@
 - **AI Security Lab**, Ewha W. Univ. (Prof. SeEun Oh) · Undergraduate Research Intern | Jul 2022 – Aug 2024
 - **ICPC Sinchon 24W** Algorithm Camp · Novice Tutor | Jan 2024 – Feb 2024
 
----
-
 ## 🎖 Awards & Scholarships
 
 - **Excellence Award**, Ewha AI College Programming Contest | Dec 2024
@@ -49,7 +46,6 @@
 - **4th Place**, Ewha SW Startup Competition | Nov 2023
 - **4-Year Full Scholarship**, Ewha Womans University | Feb 2019
 
----
 
 ## 🍝 Algorithm
 
