@@ -1,9 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=100&section=header&text=Welcome%20to%20Chaiwon's%20Github&fontSize=30&animation=twinkling)
-
 ## 🌏 Chaiwon Hwang
-I have maintained a consistent interest in artificial intelligence, with a particular focus on natural language processing. My passion for these fields has driven me to pursue extensive study and practical experiences, underscoring my commitment to advancing in this dynamic and evolving sector.
-
-✨ My current interests are... **Backend, Problem Solving, Transformer Models**
 
 ## 🌠 Stacks
 
@@ -34,11 +29,6 @@ I have maintained a consistent interest in artificial intelligence, with a parti
 <div>
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 </div>
-
-## 🌱 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uommou&theme=gruvbox_light&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uommou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧩 Experiences
 - **Novice Tutor, ICPC Sinchon Algorithm Camp 24W** | Feb.2024
