@@ -1,6 +1,5 @@
-# 🌏 Chaiwon Hwang
+# Chaiwon Hwang
 
----
 
 ## 🛠 Stacks
 
