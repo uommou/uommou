@@ -34,16 +34,16 @@
 - **Hyundai Mobis**, Data Science Team · Intern | Oct 2025 – Apr 2026
 - **NAVER Corp**, Place AI · ML Engineer Intern | May 2025 – Aug 2025
 - **GenON** (Samsung Fire & Marine Insurance Project) · AI Engineer Intern | Aug 2024 – Dec 2024
-- **AI Security Lab**, Ewha W. Univ. (Prof. SeEun Oh) · Undergraduate Research Intern | Jul 2022 – Aug 2024
+- **AI Security Lab**, XXXX Univ. · Undergraduate Research Intern | Jul 2022 – Aug 2024
 - **ICPC Sinchon 24W** Algorithm Camp · Novice Tutor | Jan 2024 – Feb 2024
 
 ## 🎖 Awards & Scholarships
 
-- **Excellence Award**, Ewha AI College Programming Contest | Dec 2024
+- **Excellence Award**, XXXX AI College Programming Contest | Dec 2024
 - **Gold Prize**, Uni-D Datathon | Nov 2024
 - **Outstanding Paper Presentation Award**, Korea Computer Congress (KCC) | Jul 2024
-- **4th Place**, Ewha SW Startup Competition | Nov 2023
-- **4-Year Full Scholarship**, Ewha Womans University | Feb 2019
+- **4th Place**, XXXX SW Startup Competition | Nov 2023
+- **4-Year Full Scholarship**, XXXX University | Feb 2019
 
 
 ## 🍝 Algorithm
